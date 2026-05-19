@@ -14,7 +14,29 @@
 |----------|-----|-------------|
 | **Admin Dashboard** | [quickdrop-web.vercel.app](https://quickdrop-web.vercel.app) | React.js web dashboard with live fleet tracking |
 | **API Backend** | [quickdrop-api.vercel.app](https://quickdrop-api.vercel.app) | Next.js REST API with Supabase integration |
-| **Mobile App** | Expo Go (Development) | React Native app for customers & riders |
+| **Mobile App (Expo Go)** | [Open in Expo Go](https://expo.dev/@vairag310/quickdrop-mobile) | React Native app for customers & riders |
+
+### 📱 Mobile App Access
+
+**Option 1: Expo Go (Instant Access)**
+1. Install [Expo Go](https://expo.dev/go) on your phone
+2. Open: https://expo.dev/@vairag310/quickdrop-mobile
+3. App loads instantly!
+
+**Option 2: Scan QR Code**
+
+![QuickDrop Mobile QR Code](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://expo.dev/@vairag310/quickdrop-mobile)
+
+**Option 3: Deep Link**
+```
+exp://u.expo.dev/6416a0a4-dcfd-491c-a1fb-821d035b1f5e?channel-name=production
+```
+
+**Latest Update Details:**
+- 📦 [Update Dashboard](https://expo.dev/preview/update?message=Your+update+message&updateRuntimeVersion=1.0.0&createdAt=2026-05-19T15%3A49%3A01.168Z&slug=exp&projectId=6416a0a4-dcfd-491c-a1fb-821d035b1f5e&group=da20a29a-6943-460c-ad34-0ef953744d4e)
+- 🔗 Update Deep Link: `exp+://expo-development-client/?url=https%3A%2F%2Fu.expo.dev%2F6416a0a4-dcfd-491c-a1fb-821d035b1f5e%2Fgroup%2Fda20a29a-6943-460c-ad34-0ef953744d4e`
+- 📅 Published: May 19, 2026
+- 🏷️ Runtime Version: 1.0.0
 
 ---
 
