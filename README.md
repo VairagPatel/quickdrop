@@ -23,11 +23,8 @@
 2. Open: https://expo.dev/@vairag310/quickdrop-mobile
 3. App loads instantly!
 
-**Option 2: Scan QR Code**
 
-![QuickDrop Mobile QR Code](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://expo.dev/preview/update?message=Your+update+message&updateRuntimeVersion=1.0.0&createdAt=2026-05-19T15%3A49%3A01.168Z&slug=exp&projectId=6416a0a4-dcfd-491c-a1fb-821d035b1f5e&group=da20a29a-6943-460c-ad34-0ef953744d4e).
-
-**Option 3: Deep Link**
+**Option 2: Deep Link**
 ```
 exp://u.expo.dev/6416a0a4-dcfd-491c-a1fb-821d035b1f5e?channel-name=production
 ```
