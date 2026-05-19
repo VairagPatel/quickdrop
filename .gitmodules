@@ -1,0 +1,9 @@
+[submodule "quickdrop-api"]
+	path = quickdrop-api
+	url = https://github.com/VairagPatel/quickdrop-api.git
+[submodule "quickdrop-mobile"]
+	path = quickdrop-mobile
+	url = https://github.com/VairagPatel/quickdrop-mobile.git
+[submodule "quickdrop-web"]
+	path = quickdrop-web
+	url = https://github.com/VairagPatel/quickdrop-web.git
